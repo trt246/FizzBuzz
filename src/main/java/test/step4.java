@@ -1,6 +1,6 @@
 package test;
 
-public class step3 {
+public class step4 {
 
 	public static void main(String[] args) {
 		for (int i = 1; i <= 30; i++) {
